@@ -1,5 +1,5 @@
-#include "tour_plan.h"
 
+#include "tour_plan.h"
 
 TourPlan* plan_createTour(ChildDataMgmt *cdm)
 {
